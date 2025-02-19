@@ -9,8 +9,8 @@ Idea behind this is studying server side Swift and intercept requests made by [P
 4. Create a `.env` and a `.env.development` files
 5. In these files add:
 - DOMAIN=https://gateway.marvel.com/v1/public
-- PRIVATE_KEY=<Your Private Key>
-- PUBLIC_KEY=<Your Public Key>
+- PRIVATE_KEY=`<Your Private Key>`
+- PUBLIC_KEY=`<Your Public Key>`
 4. Open `Package.swift` in Xcode or run the server via terminal.
 5. Test the requests
   - One example is `/characters`.
