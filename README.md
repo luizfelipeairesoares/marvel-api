@@ -1,4 +1,4 @@
-#Marvel API
+# Marvel API
 ## Small Swift server using [Vapor](https://vapor.codes/) framework.
 
 Idea behind this is studying server side Swift and intercept requests made by [Portfolio app](https://github.com/luizfelipeairesoares/portfolio).
